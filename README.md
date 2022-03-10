@@ -4,4 +4,4 @@
 > Install all required libraries using conda on default virtual environment. \
 > Run Derex.py \
 > Call Hello! and start \
-> one  meme chat pinned, "TIK TOK NEWS".
+> one  meme chat pinned, "TIK TOK NEWS"..
